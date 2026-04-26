@@ -40,7 +40,8 @@
 **PHANTOM** é um bot de engajamento para Instagram construído com uma interface de terminal de nível **profissional**. Roda direto no CMD do Windows com uma UI rica, animada e cheia de painéis — sem interface gráfica, sem frescura.
 
 > Tudo que você precisa para escalar seu engajamento, com apenas **2 cliques**.
-
+---
+![phantom cli image](download.jpg)
 ---
 
 ## 🗂️ Estrutura do Projeto
