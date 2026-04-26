@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.history/
+
+# Playwright
+.playwright/
+ms-playwright/
+
+# Bot Data (Segurança)
+data/
+*.json
+.env
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
