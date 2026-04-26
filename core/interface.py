@@ -132,15 +132,15 @@ class InterfaceManager:
         color = next(self._color_iter)
         layout = Layout()
         layout.split_column(
-            Layout(self._header(color), name="header", size=13),
+            Layout(self._header(color), name="header", size=12),
             Layout(name="body", ratio=1)
         )
         layout["body"].split_row(
-            Layout(self._menu_panel(), name="menu", ratio=1),
-            Layout(name="right", ratio=1),
+            Layout(self._menu_panel(), name="menu", ratio=2),
+            Layout(name="right", ratio=3),
         )
         layout["right"].split_column(
-            Layout(self._log_panel(), name="logs", ratio=2),
+            Layout(self._log_panel(), name="logs", ratio=3),
             Layout(self._status_panel(stats), name="status", ratio=1),
         )
         self.console.clear()
