@@ -181,3 +181,74 @@ asyncio    ───    # Execução Paralela
 ```
 
 </div>
+
+JAPAN IN THE FIFA WORLD CUP
+Complete Presentation Script — Around 5 Minutes
+João Vitor — Introduction
+
+“Good morning/afternoon everyone.
+
+Today our group will talk about Japan in the FIFA World Cup and some famous Japanese football players.
+
+Japan is one of the strongest football nations in Asia. The Japanese national team is respected for discipline, teamwork, speed, and organization.
+
+Over the years, Japan has participated in many FIFA World Cups and has become stronger in international football.
+
+Now we are going to talk about three important Japanese players:
+Shunsuke Nakamura, Takehiro Tomiyasu, and Shinji Kagawa.”
+
+Henrique — Shunsuke Nakamura
+
+“Shunsuke Nakamura is considered one of the greatest Japanese football players of all time.
+
+He was born in 1978 and played as a midfielder.
+
+Nakamura became internationally famous because of his incredible free kicks, passing ability, and vision on the field.
+
+He played for famous clubs such as Celtic in Scotland, where he became a club legend.
+
+Nakamura represented Japan in the 2006 and 2010 FIFA World Cups.
+
+Even after retirement, he continues helping Japanese football. In 2026, he works as a coach and helps develop young players in Japan.”
+
+Guilherme — Takehiro Tomiyasu
+
+“Takehiro Tomiyasu is one of the most important defenders of the new Japanese generation.
+
+He was born in 1998 and is known for his strength, speed, and versatility.
+
+Tomiyasu can play in different defensive positions, which makes him very valuable for his team.
+
+He became internationally known while playing in Europe and gained attention at Arsenal in England.
+
+In 2026, Tomiyasu plays for Ajax and continues representing the Japanese national team.
+
+He also played for Japan in the 2022 FIFA World Cup and helped the team with strong defensive performances.”
+
+Juan — Shinji Kagawa
+
+“Shinji Kagawa is another famous Japanese football player.
+
+He was born in 1989 and plays as an attacking midfielder.
+
+Kagawa became famous during his time at Borussia Dortmund in Germany, where he won important titles.
+
+Later, he also played for Manchester United in England.
+
+He is known for creativity, dribbling, intelligence, and offensive skills.
+
+Kagawa represented Japan in the 2014 and 2018 FIFA World Cups.
+
+In 2026, he plays for Cerezo Osaka in Japan and continues inspiring young Japanese football players.”
+
+Paulo — Conclusion
+
+“The growth of Japanese football happened because of discipline, hard work, and investment in young talent.
+
+Players like Nakamura, Tomiyasu, and Kagawa helped Japan become respected in world football.
+
+Today, Japan is one of the strongest football teams in Asia and continues improving every year.
+
+Their success inspires many young athletes around the world.
+
+Thank you for your attention.”
